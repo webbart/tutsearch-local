@@ -1,0 +1,66 @@
+/*typography*/
+.brand, h1, h4 {font-family: 'Numans', sans-serif;}
+h4 {font-size:.9em; max-width: 75%; display: block; margin: 0 auto;}
+h1, h4 {text-align: center;}
+h1 {color:#bcd22f; margin-top: 1em; }
+body.ts_home h1 { font-family: 'Days One', sans-serif;}
+.ts_tut {color:#9f9fa1}
+h4 {color:#e4e4e4;}
+.container {color:#e4e4e4;}
+.container a {color: #bcd22f;}
+.ts_description {color:#999;  font-size: .9em;}
+
+/*search box*/
+.gsc-input {background-image:none!important}
+#___gcse_0 {margin:0 auto; max-width: 900px}
+
+/*layout*/
+footer {  }
+.gsc-control-cse {margin: 3em auto; }
+body {background: #1b2b42; /* Old browsers */
+background: -moz-linear-gradient(top,  #1b2b42 0%, #07131f 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#1b2b42), color-stop(100%,#07131f)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #1b2b42 0%,#07131f 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #1b2b42 0%,#07131f 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #1b2b42 0%,#07131f 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #1b2b42 0%,#07131f 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1b2b42', endColorstr='#07131f',GradientType=0 ); /* IE6-9 */
+min-height: 100%}
+html {height: 100%;}
+body {height: 100%;margin: 0;background-repeat: no-repeat; background-attachment: fixed;}
+div.span3.well.ts_click a img {margin: 0 auto; display: block}
+.span3.well {min-height: 280px;}
+
+/*sites page */
+.nav-tabs {border: none;}
+.ts_sitetitle {margin-bottom: 0px!important;}
+.ts_filter {text-align: center;}
+/*ads*/
+span#attribution.lhHeader {display: none;}
+
+/*Ribbon*/
+.ts_category {position:absolute;
+top:15px;
+text-align: right;
+background:#999;
+display block;
+padding:5px 20px 5px 30px;
+right:-1px;
+box-shadow:-1px 1px 3px #999;}
+
+.well {position: relative;}
+
+/*nav*/
+body.ts_home li.ts_nav_home a,
+body.ts_sites li.ts_nav_sites a,
+body.ts_sites li.ts_nav_sites a,
+body.ts_submit_site li.ts_nav_submit a,
+body.ts_contact li.ts_nav_contact a
+ {color: #555555;
+  text-decoration: none;
+  background-color: #e5e5e5;
+  -webkit-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
+     -moz-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
+          box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);}
+
+
